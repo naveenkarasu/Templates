@@ -83,6 +83,5 @@ These templates require `npm install` before running:
 
 See [CREDITS.md](CREDITS.md) for full attribution to original authors and sources.
 
-## License
 
-MIT
+
