@@ -59,7 +59,7 @@ npx degit naveenkarasu/Templates/templates/TEMPLATE-NAME my-project
 | Template | Description | Stack |
 |----------|-------------|-------|
 | [3d-book-gallery](templates/3d-book-gallery) | 3D book-style gallery with pages that flip on click | HTML, CSS, JS |
-| [3d-keyboard-skills](templates/3d-keyboard-skills) | Interactive 3D portfolio with space-themed keyboard skill display | Next.js, React, TypeScript, Tailwind, GSAP, Three.js |
+| [3d-keyboard-skills](templates/3d-keyboard-skills) | Interactive 3D keyboard where each keycap represents a tech skill | Next.js, React, TypeScript, Tailwind, Spline 3D, GSAP |
 | [junni-card-flip](templates/junni-card-flip) | Pure CSS 3D card flip animation with perspective transforms | HTML, CSS |
 
 ## Using a Template
