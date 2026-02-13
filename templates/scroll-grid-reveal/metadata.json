@@ -1,0 +1,9 @@
+{
+  "title": "Scroll Image Grid Reveal",
+  "description": "Scroll-driven image grid reveal where center image shrinks while layered grid images scale in.",
+  "category": "scroll",
+  "stack": ["HTML", "CSS", "JS", "Motion"],
+  "author": "KevinGutowski",
+  "sourceUrl": "https://codepen.io/KevinGutowski/pen/QwNZYzL",
+  "license": "MIT"
+}

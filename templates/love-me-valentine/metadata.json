@@ -1,0 +1,9 @@
+{
+  "title": "Love Me Valentine",
+  "description": "Valentine proposal with dodging 'No' button and video reveals on accepting.",
+  "category": "valentine",
+  "stack": ["HTML", "CSS", "JS"],
+  "author": null,
+  "sourceUrl": null,
+  "license": "MIT"
+}

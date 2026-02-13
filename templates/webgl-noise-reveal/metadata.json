@@ -1,0 +1,9 @@
+{
+  "title": "WebGL Noise Image Reveal",
+  "description": "WebGL shader that reveals color over B&W image using simplex noise on mouse hover.",
+  "category": "interactive",
+  "stack": ["HTML", "CSS", "JS", "WebGL"],
+  "author": "ashthornton",
+  "sourceUrl": "https://codepen.io/ashthornton/pen/BaBjxyX",
+  "license": "MIT"
+}

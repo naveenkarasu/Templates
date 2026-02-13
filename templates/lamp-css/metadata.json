@@ -1,0 +1,9 @@
+{
+  "title": "Lamp CSS",
+  "description": "Pure CSS animated hanging lamp with swinging light and shadow effects.",
+  "category": "interactive",
+  "stack": ["HTML", "CSS"],
+  "author": "daniel-mu-oz",
+  "sourceUrl": "https://codepen.io/daniel-mu-oz/pen/BaeRbXL",
+  "license": "MIT"
+}

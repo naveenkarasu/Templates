@@ -1,0 +1,9 @@
+{
+  "title": "Mormal Gallery",
+  "description": "Multi-column gallery with staggered scroll-triggered GSAP animations and zoom effect.",
+  "category": "gallery",
+  "stack": ["HTML", "CSS", "GSAP"],
+  "author": "Codegrid",
+  "sourceUrl": "https://www.youtube.com/@codegrid",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Valentine Card",
+  "description": "Self-contained single-file valentine card with inline styles and embedded animations.",
+  "category": "valentine",
+  "stack": ["HTML", "CSS"],
+  "author": null,
+  "sourceUrl": null,
+  "license": "MIT"
+}

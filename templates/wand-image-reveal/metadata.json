@@ -1,0 +1,9 @@
+{
+  "title": "Wand Image Reveal",
+  "description": "Interactive wand cursor that reveals blurred images as it passes over stacked photo tiles.",
+  "category": "interactive",
+  "stack": ["HTML", "CSS", "JS"],
+  "author": "Hyperplexed",
+  "sourceUrl": "https://codepen.io/Hyperplexed/pen/wvQzbGz",
+  "license": "MIT"
+}

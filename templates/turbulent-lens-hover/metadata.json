@@ -1,0 +1,9 @@
+{
+  "title": "Turbulent Lens Hover",
+  "description": "WebGL shader effect that distorts images with turbulent noise on mouse hover.",
+  "category": "interactive",
+  "stack": ["Vite", "Three.js", "WebGL"],
+  "author": "Codegrid",
+  "sourceUrl": "https://www.youtube.com/@codegrid",
+  "license": "MIT"
+}

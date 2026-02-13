@@ -1,0 +1,9 @@
+{
+  "title": "Heart Animation",
+  "description": "Canvas heart with particle effects that continuously spawn and disperse.",
+  "category": "valentine",
+  "stack": ["HTML", "CSS", "JS"],
+  "author": null,
+  "sourceUrl": null,
+  "license": "MIT"
+}

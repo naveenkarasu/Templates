@@ -1,0 +1,9 @@
+{
+  "title": "Will You Be My Valentine",
+  "description": "Modern valentine proposal app with Supabase backend and confetti effects.",
+  "category": "valentine",
+  "stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion"],
+  "author": null,
+  "sourceUrl": null,
+  "license": "MIT"
+}

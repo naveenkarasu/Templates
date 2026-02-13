@@ -1,0 +1,9 @@
+{
+  "title": "Spidey",
+  "description": "Spider-Man themed slider with coverflow effect using Swiper.js and GSAP animations.",
+  "category": "interactive",
+  "stack": ["HTML", "CSS", "GSAP", "Swiper.js"],
+  "author": null,
+  "sourceUrl": null,
+  "license": "MIT"
+}

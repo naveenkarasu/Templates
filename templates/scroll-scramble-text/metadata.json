@@ -1,0 +1,9 @@
+{
+  "title": "Scroll Scramble Text",
+  "description": "Pure CSS scroll-driven text scramble where letters scatter in 3D space and converge on scroll.",
+  "category": "scroll",
+  "stack": ["HTML", "CSS"],
+  "author": "cbolson",
+  "sourceUrl": "https://codepen.io/cbolson/pen/xbOgxwp",
+  "license": "MIT"
+}

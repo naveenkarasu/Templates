@@ -1,0 +1,9 @@
+{
+  "title": "Orchestra 3D Scroll",
+  "description": "3D CSS cubes that orchestrate movement and rotation based on scroll position.",
+  "category": "scroll",
+  "stack": ["HTML", "CSS", "JS", "GSAP"],
+  "author": "Codegrid",
+  "sourceUrl": "https://www.youtube.com/@codegrid",
+  "license": "MIT"
+}

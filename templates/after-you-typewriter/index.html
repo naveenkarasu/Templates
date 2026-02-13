@@ -1,0 +1,127 @@
+<!--
+  After You — Communal Digital Typewriter
+  An interactive vintage typewriter experience.
+  Type, leave a line, and let the next person continue.
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>After You</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="layout">
+    <!-- Left Panel -->
+    <div class="left-panel">
+      <div>
+        <h1>After You</h1>
+        <p class="intro">
+          Type as if someone will come after you.<br><br>
+          Write a line, leave a thought, or finish someone else's sentence.
+          What you type stays, waiting for the next person.<br><br>
+          Use your keyboard like a typewriter. Drag the carriage to return.
+        </p>
+      </div>
+      <button class="snapshots-btn" aria-label="View snapshots">snapshots</button>
+    </div>
+
+    <!-- Right Panel: Typewriter -->
+    <div class="right-panel">
+      <div class="typewriter">
+
+        <!-- Paper (visible above the base, moves with carriage) -->
+        <div class="paper-clip-region">
+          <div class="paper-carriage" id="paperCarriage">
+            <div class="paper">
+              <div class="paper-controls">
+                <button class="btn-snapshot">take a snapshot</button>
+                <button class="btn-ink">ink ribbon: <span class="ink-dot"></span></button>
+              </div>
+              <div class="text-content" id="textContent"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Carriage Layer (draggable, moves with paper) -->
+        <div class="carriage-layer" id="carriageLayer">
+          <span class="drag-hint">drag carriage to return</span>
+          <div class="carriage-roller"></div>
+        </div>
+
+        <!-- Base Layer (stationary, top z-index) -->
+        <div class="base-layer">
+          <div class="base-slot"></div>
+          <div class="key-rows">
+            <!-- Row 1: Numbers -->
+            <div class="key-row">
+              <div class="key" data-key="1">1</div>
+              <div class="key" data-key="2">2</div>
+              <div class="key" data-key="3">3</div>
+              <div class="key" data-key="4">4</div>
+              <div class="key" data-key="5">5</div>
+              <div class="key" data-key="6">6</div>
+              <div class="key" data-key="7">7</div>
+              <div class="key" data-key="8">8</div>
+              <div class="key" data-key="9">9</div>
+              <div class="key" data-key="0">0</div>
+            </div>
+            <!-- Row 2: QWERTY -->
+            <div class="key-row">
+              <div class="key" data-key="Q">Q</div>
+              <div class="key" data-key="W">W</div>
+              <div class="key" data-key="E">E</div>
+              <div class="key" data-key="R">R</div>
+              <div class="key" data-key="T">T</div>
+              <div class="key" data-key="Y">Y</div>
+              <div class="key" data-key="U">U</div>
+              <div class="key" data-key="I">I</div>
+              <div class="key" data-key="O">O</div>
+              <div class="key" data-key="P">P</div>
+            </div>
+            <!-- Row 3: ASDF -->
+            <div class="key-row">
+              <div class="key" data-key="A">A</div>
+              <div class="key" data-key="S">S</div>
+              <div class="key" data-key="D">D</div>
+              <div class="key" data-key="F">F</div>
+              <div class="key" data-key="G">G</div>
+              <div class="key" data-key="H">H</div>
+              <div class="key" data-key="J">J</div>
+              <div class="key" data-key="K">K</div>
+              <div class="key" data-key="L">L</div>
+            </div>
+            <!-- Row 4: ZXCV -->
+            <div class="key-row">
+              <div class="key" data-key="Z">Z</div>
+              <div class="key" data-key="X">X</div>
+              <div class="key" data-key="C">C</div>
+              <div class="key" data-key="V">V</div>
+              <div class="key" data-key="B">B</div>
+              <div class="key" data-key="N">N</div>
+              <div class="key" data-key="M">M</div>
+            </div>
+            <!-- Row 5: Space -->
+            <div class="key-row">
+              <div class="key space" data-key=" "></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Snapshot Modal -->
+  <div class="modal-overlay" id="modalOverlay">
+    <div class="modal">
+      <h2>snapshots</h2>
+      <div class="snapshot-grid" id="snapshotGrid"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

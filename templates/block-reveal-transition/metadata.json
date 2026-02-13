@@ -1,0 +1,9 @@
+{
+  "title": "Block Reveal Transition",
+  "description": "Block-based page transition effect with animated reveal using GSAP and custom routing.",
+  "category": "scroll",
+  "stack": ["Next.js", "React", "GSAP"],
+  "author": null,
+  "sourceUrl": null,
+  "license": "MIT"
+}

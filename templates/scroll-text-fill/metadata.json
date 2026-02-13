@@ -1,0 +1,9 @@
+{
+  "title": "Scroll Text Fill Effect",
+  "description": "Text gradually fills with color as user scrolls using GSAP ScrollTrigger.",
+  "category": "scroll",
+  "stack": ["HTML", "CSS", "JS", "GSAP"],
+  "author": "cameronknight",
+  "sourceUrl": "https://codepen.io/cameronknight/pen/GgqKPZq",
+  "license": "MIT"
+}

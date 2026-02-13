@@ -1,0 +1,9 @@
+{
+  "title": "Gallery of Fame",
+  "description": "Animated image gallery that scatters and reveals from center with staggered GSAP animations.",
+  "category": "gallery",
+  "stack": ["HTML", "CSS", "GSAP"],
+  "author": "Codegrid",
+  "sourceUrl": "https://www.youtube.com/@codegrid",
+  "license": "MIT"
+}

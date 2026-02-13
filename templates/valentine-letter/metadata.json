@@ -1,0 +1,9 @@
+{
+  "title": "Valentine Letter",
+  "description": "Animated envelope that opens to reveal a valentine letter with dodging 'No' button.",
+  "category": "valentine",
+  "stack": ["HTML", "CSS", "JS"],
+  "author": null,
+  "sourceUrl": null,
+  "license": "MIT"
+}

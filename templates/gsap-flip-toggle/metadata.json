@@ -1,0 +1,9 @@
+{
+  "title": "GSAP Flip Toggle",
+  "description": "Image gallery with GSAP Flip animations that reorder and transform images on scroll.",
+  "category": "gallery",
+  "stack": ["HTML", "CSS", "GSAP", "Locomotive Scroll"],
+  "author": null,
+  "sourceUrl": null,
+  "license": "MIT"
+}

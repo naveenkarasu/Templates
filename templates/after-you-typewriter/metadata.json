@@ -1,0 +1,9 @@
+{
+  "title": "After You — Communal Digital Typewriter",
+  "description": "Interactive vintage typewriter with carriage movement, ink ribbon color switching, and snapshot capture.",
+  "category": "interactive",
+  "stack": ["HTML", "CSS", "JS"],
+  "author": null,
+  "sourceUrl": null,
+  "license": "MIT"
+}

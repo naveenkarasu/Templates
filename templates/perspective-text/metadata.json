@@ -1,0 +1,9 @@
+{
+  "title": "CSS Perspective Text Effect",
+  "description": "Pure CSS isometric text effect with alternating line transforms and hover scroll.",
+  "category": "interactive",
+  "stack": ["HTML", "CSS"],
+  "author": "bosworthco",
+  "sourceUrl": "https://codepen.io/bosworthco/pen/YWBLpR",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "3D Keyboard Skills",
+  "description": "Interactive 3D portfolio with space-themed keyboard where each keycap represents a skill.",
+  "category": "3d",
+  "stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "GSAP", "Three.js"],
+  "author": "Naresh Khatri",
+  "sourceUrl": "https://github.com/Naresh-Khatri/3d-portfolio",
+  "license": "MIT"
+}

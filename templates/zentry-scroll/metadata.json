@@ -1,0 +1,9 @@
+{
+  "title": "Zentry Scroll",
+  "description": "Zentry-inspired scroll animations with sticky sections, image reveals, and smooth scroll.",
+  "category": "scroll",
+  "stack": ["HTML", "CSS", "JS", "GSAP"],
+  "author": "Codegrid",
+  "sourceUrl": "https://www.youtube.com/@codegrid",
+  "license": "MIT"
+}

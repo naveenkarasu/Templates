@@ -1,0 +1,9 @@
+{
+  "title": "3D Book Gallery",
+  "description": "3D book-style image gallery with pages that flip open and closed on click.",
+  "category": "3d",
+  "stack": ["HTML", "CSS", "JS"],
+  "author": "daniel-mu-oz",
+  "sourceUrl": "https://codepen.io/daniel-mu-oz/pen/RNRaXwZ",
+  "license": "MIT"
+}

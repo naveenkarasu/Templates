@@ -1,0 +1,9 @@
+{
+  "title": "Junni Card Flip",
+  "description": "Pure CSS 3D card flip animation with perspective transforms.",
+  "category": "3d",
+  "stack": ["HTML", "CSS"],
+  "author": "Codegrid",
+  "sourceUrl": "https://www.youtube.com/@codegrid",
+  "license": "MIT"
+}
