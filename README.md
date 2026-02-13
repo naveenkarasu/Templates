@@ -1,6 +1,6 @@
 # Templates
 
-A collection of 25 self-contained web templates — valentines, scroll animations, galleries, visual effects, and 3D experiences.
+A collection of 26 self-contained web templates — valentines, scroll animations, galleries, visual effects, and 3D experiences.
 
 ## Quick Start
 
@@ -53,6 +53,7 @@ npx degit naveenkarasu/Templates/templates/TEMPLATE-NAME my-project
 | [spidey](templates/spidey) | Spider-Man themed slider with coverflow effect | HTML, CSS, GSAP, Swiper.js |
 | [webgl-noise-reveal](templates/webgl-noise-reveal) | WebGL shader that reveals color over B&W image using simplex noise | HTML, CSS, JS, WebGL |
 | [turbulent-lens-hover](templates/turbulent-lens-hover) | WebGL shader that distorts images with turbulent noise on hover | Vite, Three.js, WebGL |
+| [golden-butterfly-particles](templates/golden-butterfly-particles) | Metallic golden butterfly particles that form uploaded images with object boundary detection | HTML, CSS, JS, Three.js |
 
 ### 3D
 
@@ -64,7 +65,7 @@ npx degit naveenkarasu/Templates/templates/TEMPLATE-NAME my-project
 
 ## Using a Template
 
-### Static templates (21 templates)
+### Static templates (22 templates)
 
 Just open `index.html` in a browser. No build step needed.
 

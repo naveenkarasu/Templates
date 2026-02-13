@@ -1,0 +1,9 @@
+{
+  "title": "Golden Butterfly Particles",
+  "description": "Metallic golden butterfly particles that swarm freely and form uploaded images. Interactive mouse response in all directions with wing-flicker animation.",
+  "category": "interactive",
+  "stack": ["HTML", "CSS", "JS", "Three.js"],
+  "author": null,
+  "sourceUrl": null,
+  "license": "MIT"
+}
